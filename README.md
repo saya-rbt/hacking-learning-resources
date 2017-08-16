@@ -1,5 +1,4 @@
-# hacking-learning-resources
-## List of useful resources to learn hacking
+# List of useful resources to learn hacking
 
 This list has been found on the [Discord server](https://discord.gg/DThbZ7z) of the [ReSwitched Team](https://reswitched.tech/), a team dedicated to run homebrew on the Nintendo Switch and also hacking other stuff. Thanks to them!
 
