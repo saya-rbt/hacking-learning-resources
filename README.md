@@ -8,6 +8,7 @@ All dead links are kept. They might be up again, who knows?
 
 1. Sort by categories (tutorials, challenges, documentation...)
 1. Add missing descriptions
+1. What would be super dope would be doing a Wiki. I don't know how to organize that, but that would be cool. With a page for the glossary, pages for categories like tutorials, challenges etc. Maybe.
 
 Any contribution and pull request is welcome!
 
